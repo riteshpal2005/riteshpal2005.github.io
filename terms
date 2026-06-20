@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Terms of Service - LedgerLite</title>
+    <style>body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }</style>
+</head>
+<body>
+    <h1>Terms of Service for LedgerLite</h1>
+    <p><strong>Last updated: June 20, 2026</strong></p>
+    <p>By downloading or using LedgerLite, you agree to be bound by these Terms of Service.</p>
+    
+    <h2>1. Use of the App</h2>
+    <p>LedgerLite is an independent, student-developed personal finance tool. It is provided free of charge "as is" without any warranties of any kind.</p>
+    
+    <h2>2. Limitation of Liability</h2>
+    <p>Under no circumstances shall the developer of LedgerLite be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the application. This includes, but is not limited to, data loss, financial miscalculations, or device issues.</p>
+    
+    <h2>3. Data Responsibility</h2>
+    <p>While LedgerLite provides local and cloud-based saving mechanisms, it is your responsibility to ensure your data is backed up. We cannot guarantee the absolute security or persistence of data stored on your device or in the cloud.</p>
+    
+    <h2>4. Modifications</h2>
+    <p>We reserve the right to modify these Terms at any time. Continued use of the application constitutes your consent to such changes.</p>
+</body>
+</html>
